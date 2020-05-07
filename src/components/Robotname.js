@@ -1,0 +1,33 @@
+
+export const  Robot = [
+    {
+        id:1,
+        name:'Mubarak',
+        email:'mubby123@gmail.com'
+    },
+    {
+        id:2,
+        name:'Mubby',
+        email:'mubby123@gmail.com'
+    },
+    {
+        id:3,
+        name:'Adebayo',
+        email:'Adeb@gmail',
+    },
+    {
+        id:4,
+        name:'Meedrokrick',
+        email:'Meedrokrick@gmail.com',
+    },
+    {
+        id:5,
+        name:'Ummar',
+        email:'Ummar@gmail.com'
+    },
+    {
+        id:6,
+        name:'Wasiu',
+        email:'Wasiu@gmail.com'
+    },
+]
